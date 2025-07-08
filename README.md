@@ -1,4 +1,5 @@
 # Kinesis Advantage 360 Pro ZMK Config
+Use the editor at [https://nickcoutsos.github.io/keymap-editor/](https://nickcoutsos.github.io/keymap-editor/)
 
 ## Modifying the keymap
 
